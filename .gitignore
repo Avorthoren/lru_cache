@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.class
+
+.idea/
+.vscode/
+venv
+/dist
+
+# Put your 'private' developer files here
+/private_dir
